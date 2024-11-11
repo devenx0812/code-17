@@ -28,8 +28,8 @@ Linked lists are of several types, including: <br>
 ### Code       
 (A) <br> 
 ```
-// NAME - GARV NANDWANA
-// PRN - 23070123167
+// NAME - Devansh Chachra
+// PRN - 22070123039
 // EXPERIMENT - 17(A)
 
 // LINKED LIST 
@@ -74,8 +74,8 @@ using namespace std;
 
 (B) 
 ```
-// NAME - GARV NANDWANA
-// PRN - 23070123167
+// NAME - Devansh Chachra
+// PRN - 22070123039
 // EXPERIMENT - 17(B) 
 
 // LINKED LIST 
